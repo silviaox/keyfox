@@ -1,0 +1,37 @@
+body{
+	font-size:16px;
+	background-color: white;
+	color: black;
+	margin:5px;
+	text-align: left;
+}
+
+
+header{
+	padding: 5px;
+}
+.titulo{
+	background-color:cornflowerblue;
+	text-align: center;
+	font-size:3em;
+	text-rendering: optimizeLegibility;
+
+
+}
+
+
+.izquierda{
+	background-color:palegreen;
+}
+.logo {
+	max-width: 120px;
+	border-radius: 20%;
+	margin:5px;
+}
+
+footer{
+	background-color:cornflowerblue;
+	margin-top: 5px;
+	text-align:center;
+	font-size: 0.8em;
+}
