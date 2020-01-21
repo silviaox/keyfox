@@ -15,8 +15,12 @@ ul{
 header{
 	padding: 5px;
 }
+.nav {
+	background-color:seagreen;
+}
+
 .titulo{
-	background-color:cornflowerblue;
+	background-color:palegreen;
 	text-align: center;
 	font-size:3.5em;
 	text-rendering: optimizeLegibility;
@@ -25,7 +29,7 @@ header{
 	background-color:palegreen;
 }
 .logo {
-	max-width: 120px;
+	max-width: 200px;
 	border-radius: 20%;
 	margin:5px;
 }
@@ -50,6 +54,7 @@ header{
 }
 .mi-menu{
 	background-color:palegreen;
+	color: black;
 }
 .un-titulo{
 	padding-top: 5px;
@@ -57,15 +62,17 @@ header{
 }
 .un-lugar{
 	padding-top:2px;
-	
+
 }
 
 
-
+section{
+	margin-left:5px;
+}
 
 footer{
-	background-color:cornflowerblue;
-	margin-top: 5px;
+	background-color:palegreen;
+	margin: 5px;
 	text-align:center;
 	font-size: 0.8em;
 }
