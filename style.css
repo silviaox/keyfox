@@ -5,7 +5,12 @@ body{
 	margin:5px;
 	text-align: left;
 }
-
+a {
+	color:black;
+}
+ul{
+	list-style: none;
+}
 
 header{
 	padding: 5px;
@@ -13,13 +18,9 @@ header{
 .titulo{
 	background-color:cornflowerblue;
 	text-align: center;
-	font-size:3em;
+	font-size:3.5em;
 	text-rendering: optimizeLegibility;
-
-
 }
-
-
 .izquierda{
 	background-color:palegreen;
 }
@@ -28,6 +29,39 @@ header{
 	border-radius: 20%;
 	margin:5px;
 }
+.mi-foto{
+	max-width: 250px;
+	border-radius:50%;
+	margin: 10px;
+}
+.caja{
+	padding:5px;
+	margin:5px;
+}
+.mi-contacto{
+	margin: 5px;
+	padding: 5px;
+	color: black;
+	font-size: 1.2em;
+}
+.mi-nombre{
+	font-size: 3em;
+	text-align: center;
+}
+.mi-menu{
+	background-color:palegreen;
+}
+.un-titulo{
+	padding-top: 5px;
+	font-weight: bold;
+}
+.un-lugar{
+	padding-top:2px;
+	
+}
+
+
+
 
 footer{
 	background-color:cornflowerblue;
